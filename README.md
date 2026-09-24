@@ -6,8 +6,6 @@
 
 ## 👥 Project Team
 
-*(Listed in alphabetical order)*
-
 * **ES Sriram**
 * **Mohammed Ayaan Adil Ahmed**
 * **Mohith B S**
